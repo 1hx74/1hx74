@@ -3,15 +3,14 @@
 <h1 align="center">[  Hi there 🐙 ]</h1>
 
 <div align="center">
-    <img src="assets/sun.jpg" align="center" width="175">
+    <img src="assets/snow.jpg" align="center" width="300">
 </div>
-<br>
 
 <div>
 <h2 align="center"> 🎆 About me </h2>
 
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sh.png" align="right" width="250">
+    <img src="assets/sun.jpg" align="right" width="175">
 </div>
 <b>Name:</b> Nikolai Maryin
 
