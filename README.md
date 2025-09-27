@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="assets/sun.jpg" alt="alt text" width="150"/>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>Привет!</h2>
+    <p>Я студент-программист.<br>
+    Занимаюсь Python, C++, JS, Java и Bash.<br>
+    Сейчас делаю консольный квиз и скоро буду писать ботов.</p>
+  </div>
+  <img src="assets/sun.jpg" alt="sun" width="200"/>
+</div>
