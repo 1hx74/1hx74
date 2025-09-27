@@ -1,18 +1,22 @@
 
 <body>
-<p align="center" style="font-size: 2.2em; font-weight: bold;">~ Hi there 🐙 ~</p>
+<h1 align="center">[  Hi there 🐙 ]</h1>
 
-<hr>
+<br><br><br>
+
 <div>
-<p align="center" style="font-size: 1.8em; font-weight: bold;">🎆 About me</p>
+<h2 align="center"> 🎆 About me </h2>
 
-    <div align="center">
-        <img src="assets/sun.jpg" align="right" width="175">
-    </div>
+<div align="center">
+    <img src="assets/sun.jpg" align="right" width="175">
+</div>
 <b>Name:</b> Nikolai Maryin
 
-<b>I use:</b> bash, c++, js, java, and python to solve my training tasks.
+<b>I use:</b> Bash, C++, JavaScript, Java, and Python to solve my training tasks
 
+<b>My hobbies:</b> coding, reading books, listening to music
+
+<b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2
 
 <br><br><br>
 </div>
