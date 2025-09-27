@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div>
-    <p>I'm studying to be a programmer<br>
-    I use bash, c++, js, java, and python to solve my training tasks</p>
-  </div>
-  <img src="assets/sun.jpg" alt="sun" width="175"/>
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <p align="left">
+        I'm studying to be a programmer.<br>
+        I use bash, c++, js, java, and python to solve my training tasks.
+      </p>
+    </td>
+    <td>
+      <img src="assets/sun.jpg" alt="sun" width="175"/>
+    </td>
+  </tr>
+</table>
