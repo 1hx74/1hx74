@@ -1,9 +1,11 @@
 
 <body>
-<h1 align="center">~ Hi there 🐙 ~</h1>
+<p align="center" style="font-size: 2.2em; font-weight: bold;">~ Hi there 🐙 ~</p>
 
+<hr>
 <div>
-<h2 align="center"> 🎆 About me </h2>
+<p align="center" style="font-size: 1.8em; font-weight: bold;">🎆 About me</p>
+
     <div align="center">
         <img src="assets/sun.jpg" align="right" width="175">
     </div>
