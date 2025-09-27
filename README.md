@@ -1,31 +1,18 @@
-## Hi there 🐙
 
-<!--
-**1hx74/1hx74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
+<h1 align="center">~ Hi there 🐙 ~</h1>
+<hr>
+<div>
+<h2 align="center"> 🎆 About me </h2>
+    <div align="center">
+        <img src="assets/sun.jpg" align="right" width="175">
+    </div>
+<b>Name:</b> Nikolai Maryin
 
-Here are some ideas to get you started:
+<b>I use:</b> bash, c++, js, java, and python to solve my training tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top">
-      <p>
-        I'm studying to be a programmer.<br>
-        I use bash, c++, js, java, and python to solve my training tasks.
-      </p>
-    </td>
-    <td>
-      <img src="assets/sun.jpg" alt="sun" width="175"/>
-    </td>
-  </tr>
-</table>
+<br><br><br>
+</div>
 
+</body>
