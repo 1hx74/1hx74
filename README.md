@@ -1,10 +1,9 @@
 
 <body>
-<h1 align="center" style="border: none;">~ Hi there 🐙 ~</h1>
+<h1 align="center">~ Hi there 🐙 ~</h1>
 
-<hr>
 <div>
-<h2 align="center" style="border: none;">🎆 About me</h2>
+<h2 align="center"> 🎆 About me </h2>
     <div align="center">
         <img src="assets/sun.jpg" align="right" width="175">
     </div>
