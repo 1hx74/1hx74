@@ -11,7 +11,7 @@
 <h2 align="center"> 🎆 About me </h2>
 
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sh.png" align="right" width="175">
+    <img src="assets/sh.png" align="right" width="250">
 </div>
 <b>Name:</b> Nikolai Maryin
 
