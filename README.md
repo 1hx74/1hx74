@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🐙
 
 <!--
 **1hx74/1hx74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
-    <h2>Привет!</h2>
-    <p>Я студент-программист.<br>
-    Занимаюсь Python, C++, JS, Java и Bash.<br>
-    Сейчас делаю консольный квиз и скоро буду писать ботов.</p>
+    <p>I'm studying to be a programmer<br>
+    I use bash, c++, js, java, and python to solve my training tasks</p>
   </div>
-  <img src="assets/sun.jpg" alt="sun" width="200"/>
+  <img src="assets/sun.jpg" alt="sun" width="175"/>
 </div>
