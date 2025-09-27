@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
-      <p align="left">
+      <p>
         I'm studying to be a programmer.<br>
         I use bash, c++, js, java, and python to solve my training tasks.
       </p>
@@ -28,3 +28,4 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
