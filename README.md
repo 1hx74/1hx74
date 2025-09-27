@@ -2,13 +2,16 @@
 <body>
 <h1 align="center">[  Hi there 🐙 ]</h1>
 
-<br><br><br>
+<div align="center">
+    <img src="assets/sun.jpg" align="center" width="175">
+</div>
+<br>
 
 <div>
 <h2 align="center"> 🎆 About me </h2>
 
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sun.jpg" align="right" width="175">
+    <img src="assets/sh.png" align="right" width="175">
 </div>
 <b>Name:</b> Nikolai Maryin
 
