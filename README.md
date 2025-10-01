@@ -14,13 +14,16 @@
     <img src="assets/sun.jpg" align="right" width="225" alt="sunset in fog" hspace="10" vspace="10">
 </div>
 
-<b>Name:</b> Nikolai Maryin
+<b>Name:</b> Nikolai Maryin (@maryin_n in telegram)
 
 <b>My hobbies:</b> coding, reading books, listening to music
 
 <b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, old PC is nice too
 
-<b>Favorite:</b> author - Agatha Christie, games - Warcraft 2 and FlatOut 2 
+<b>Favorite:</b> 
+<li>musicians - RHCP, Three Days Grace, Span</li>
+<li>author - Agatha Christie</li>
+<li>games - Warcraft 2 and FlatOut 2</li>
 
 </div>
 
