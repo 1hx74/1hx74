@@ -43,7 +43,7 @@
 
 <b>Course:</b> I'm in my second year now<br>
 
-<b>Institute:</b> I'm studying in MathMeh’e, field of mathematical software (with a strong focus on programming)
+<b>Institute:</b> I'm studying in MathMeh’e, field of mathematical software<br>(with a strong focus on programming)
 
 <b>I want to learn:</b> I want to learn SQL, HTML, CSS, and GUI development
 
@@ -51,7 +51,7 @@
 
 </div>
 
-<div>
+
 #### 🚀 Languages & Tools
 
 <div>
@@ -65,7 +65,6 @@
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30" height="30"/>
-</div>
 </div>
 
 
