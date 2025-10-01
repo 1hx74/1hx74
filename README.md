@@ -13,7 +13,6 @@
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
     <img src="assets/sun.jpg" align="right" width="300" alt="sunset in fog" hspace="10" vspace="10">
 </div>
-<br>
 
 <b>Name:</b> Nikolai Maryin (@maryin_n in telegram)
 
@@ -39,7 +38,6 @@
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
     <img src="assets/sh.png" align="left" width="300" alt="Silent Hill cafe" hspace="10" vspace="10">
 </div>
-<br>
 
 <b>Course:</b> I'm in my second year now<br>
 
