@@ -16,12 +16,9 @@
 
 <b>Name:</b> Nikolai Maryin
 
-
 <b>My hobbies:</b> coding, reading books, listening to music
 
-
 <b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, old PC is nice too
-
 
 <b>Favorite:</b> author - Agatha Christie, games - Warcraft 2 and FlatOut 2 
 
@@ -36,17 +33,15 @@
 </div>
 
 <div>
-<b>Course:</b> I'm in my second year now
-
+<b>Course:</b> I'm in my second year now<br>
 
 <b>Institute:</b> I'm studying in MathMeh’e, field of mathematical software (with a strong focus on programming)
 
-
 <b>I want to learn:</b> I want to learn SQL, HTML, CSS, and GUI development
-</div>
-
 
 <b>I use:</b> Bash, C++, JavaScript, Java, and Python to solve my training tasks
+
+</div>
 
 ### 🚀 Languages & Tools
 
