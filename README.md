@@ -1,59 +1,53 @@
+
+<body>
 <h1 align="center">[  Hi there 🐙 ]</h1>
 
-<table style="width:100%; border:none;">
-<tr>
-<td style="width:50%; vertical-align:top; border:none;">
-    <div align="center">
-        <img src="assets/snow.jpg" width="100%" alt="snow in japan">
-    </div>
-</td>
-<td style="width:50%; vertical-align:top; border:none;">
-    <h2 align="center"> 🎆 About me </h2>
+<div align="center">
+    <img src="assets/snow.jpg" align="center" width="500" alt="snow in japan">
+</div>
 
-    <div align="center">
-        <img src="assets/sun.jpg" width="80%" alt="sunset in fog">
-    </div>
 
-    <b>Name:</b> Nikolai Maryin (@maryin_n in telegram)<br><br>
+<div>
+<h2 align="center"> 🎆 About me </h2>
 
-    <b>My hobbies:</b> coding, reading books, listening to music<br><br>
+<div align="center" style="padding-left: 20px; padding-right: 20px;">
+    <img src="assets/sun.jpg" align="right" width="225" alt="sunset in fog" hspace="10" vspace="10">
+</div>
 
-    <b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, old PC is nice too<br><br>
+<b>Name:</b> Nikolai Maryin (@maryin_n in telegram)
 
-    <b>Favorite:</b>
-    <ul>
-        <li>musicians - RHCP, Three Days Grace, Span</li>
-        <li>author - Agatha Christie</li>
-        <li>games - Warcraft 2 and FlatOut 2</li>
-    </ul>
-</td>
-</tr>
-</table>
+<b>My hobbies:</b> coding, reading books, listening to music
 
-<br><br>
+<b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, old PC is nice too
 
-<table style="width:100%; border:none;">
-<tr>
-<td style="width:50%; vertical-align:top; border:none;">
-    <div align="center">
-        <img src="assets/sh.png" width="100%" alt="Silent Hill cafe">
-    </div>
-</td>
-<td style="width:50%; vertical-align:top; border:none;">
-    <h2 align="center">🦀 About coding 🦞</h2>
+<b>Favorite:</b>
+<ul>
+    <li>musicians - RHCP, Three Days Grace, Span</li>
+    <li>author - Agatha Christie</li>
+    <li>games - Warcraft 2 and FlatOut 2</li>
+</ul>
 
-    <b>Course:</b> I'm in my second year now<br><br>
+</div>
 
-    <b>Institute:</b> I'm studying in MathMeh’e, field of mathematical software (with a strong focus on programming)<br><br>
+<br><br><br>
 
-    <b>I want to learn:</b> I want to learn SQL, HTML, CSS, and GUI development<br><br>
+<div>
 
-    <b>I use:</b> Bash, C++, JavaScript, Java, and Python to solve my training tasks
-</td>
-</tr>
-</table>
+<h2 align="center">🦀 About coding 🦞</h2>
 
-<br><br>
+<div align="center" style="padding-left: 20px; padding-right: 20px;">
+    <img src="assets/sh.png" align="left" width="300" alt="Silent Hill cafe" hspace="10" vspace="10">
+</div>
+
+<b>Course:</b> I'm in my second year now<br>
+
+<b>Institute:</b> I'm studying in MathMeh’e, field of mathematical software (with a strong focus on programming)
+
+<b>I want to learn:</b> I want to learn SQL, HTML, CSS, and GUI development
+
+<b>I use:</b> Bash, C++, JavaScript, Java, and Python to solve my training tasks
+
+</div>
 
 ### 🚀 Languages & Tools
 
@@ -69,3 +63,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
 </div>
+
+
+<br><br><br>
+
+</body>
