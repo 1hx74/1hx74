@@ -11,7 +11,7 @@
 <h2 align="center"> 🎆 About me </h2>
 
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sun.jpg" align="right" width="300" alt="sunset in fog" hspace="10" vspace="10">
+    <img src="assets/sun.jpg" align="right" width="320" alt="sunset in fog" hspace="10" vspace="10">
 </div>
 
 <b>Name:</b> Nikolai Maryin (@maryin_n in telegram)
