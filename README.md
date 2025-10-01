@@ -18,7 +18,7 @@
 
 <b>My hobbies:</b> coding, reading books, listening to music
 
-<b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, PC is nice too
+<b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, old PC is nice too
 
 <b>Favorite:</b> author - Agatha Christie, games - Warcraft 2 and FlatOut 2 
 
@@ -42,6 +42,22 @@
 
 <b>I use:</b> Bash, C++, JavaScript, Java, and Python to solve my training tasks
 
-<br><br><br><br><br>
+### 🚀 Languages & Tools
+
+<div>
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+
+  <!-- IDEs -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/>
+</div>
+
+
+<br><br><br>
 
 </body>
