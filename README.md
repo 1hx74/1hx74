@@ -21,13 +21,17 @@
 <b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, old PC is nice too
 
 <b>Favorite:</b>
-&nbsp;&nbsp;&nbsp;<li>musicians - RHCP, Three Days Grace, Span</li>
-&nbsp;&nbsp;&nbsp;<li>author - Agatha Christie</li>
-&nbsp;&nbsp;&nbsp;<li>games - Warcraft 2 and FlatOut 2</li>
+<ul>
+    <li>musicians - RHCP, Three Days Grace, Span</li>
+    <li>author - Agatha Christie</li>
+    <li>games - Warcraft 2 and FlatOut 2</li>
+</ul>
 
 </div>
 
 <br><br><br>
+
+<div>
 
 <h2 align="center">🦀 About coding 🦞</h2>
 
@@ -35,7 +39,6 @@
     <img src="assets/sh.png" align="left" width="300" alt="Silent Hill cafe" hspace="10" vspace="10">
 </div>
 
-<div>
 <b>Course:</b> I'm in my second year now<br>
 
 <b>Institute:</b> I'm studying in MathMeh’e, field of mathematical software (with a strong focus on programming)
