@@ -29,7 +29,7 @@
 <h2 align="center">🦀 About coding 🦞</h2>
 
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sh.png" align="left" width="300" alt="Silent Hill cafe" hspace="15" vspace="10">
+    <img src="assets/sh.png" align="left" width="300" alt="Silent Hill cafe" hspace="10" vspace="10">
 </div>
 
 <div>
