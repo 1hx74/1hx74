@@ -20,10 +20,10 @@
 
 <b>I love:</b> both Nintendo and Sega, as well as PlayStation 1 and 2, old PC is nice too
 
-<b>Favorite:</b> 
-<li>musicians - RHCP, Three Days Grace, Span</li>
-<li>author - Agatha Christie</li>
-<li>games - Warcraft 2 and FlatOut 2</li>
+<b>Favorite:</b>
+&nbsp;&nbsp;&nbsp;<li>musicians - RHCP, Three Days Grace, Span</li>
+&nbsp;&nbsp;&nbsp;<li>author - Agatha Christie</li>
+&nbsp;&nbsp;&nbsp;<li>games - Warcraft 2 and FlatOut 2</li>
 
 </div>
 
