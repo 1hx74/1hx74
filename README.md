@@ -3,7 +3,7 @@
 <h1 align="center">[  Hi there 🐙 ]</h1>
 
 <div align="center">
-    <img src="assets/snow.jpg" align="center" width="300" alt="snow in japan">
+    <img src="assets/snow.jpg" align="center" width="500" alt="snow in japan">
 </div>
 
 
@@ -11,7 +11,7 @@
 <h2 align="center"> 🎆 About me </h2>
 
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sun.jpg" align="right" width="175" alt="sunset in fog" hspace="15" vspace="10">
+    <img src="assets/sun.jpg" align="right" width="225" alt="sunset in fog" hspace="15" vspace="10">
 </div>
 
 <b>Name:</b> Nikolai Maryin
@@ -29,7 +29,7 @@
 <h2 align="center">🦀 About coding 🦞</h2>
 
 <div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sh.png" align="left" width="225" alt="Silent Hill cafe" hspace="15" vspace="10">
+    <img src="assets/sh.png" align="left" width="300" alt="Silent Hill cafe" hspace="15" vspace="10">
 </div>
 
 <div>
