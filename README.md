@@ -10,8 +10,8 @@
 <div>
 <h2 align="center"> 🎆 About me </h2>
 
-<div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sun.jpg" align="right" width="300" alt="sunset in fog" hspace="10" vspace="10">
+<div style="text-align:center; padding:0 10px;">
+    <img src="assets/sun.jpg" style="float:right; width:300px; max-width:100%; margin:10px;" alt="sunset in fog">
 </div>
 
 <b>Name:</b> Nikolai Maryin (@maryin_n in telegram)
@@ -35,8 +35,8 @@
 
 <h2 align="center">🦀 About coding 🦞</h2>
 
-<div align="center" style="padding-left: 20px; padding-right: 20px;">
-    <img src="assets/sh.png" align="left" width="300" alt="Silent Hill cafe" hspace="10" vspace="10">
+<div style="text-align:center; padding:0 10px;">
+    <img src="assets/sh.png" style="float:left; width:300px; max-width:100%; margin:10px;" alt="Silent Hill cafe">
 </div>
 
 <b>Course:</b> I'm in my second year now<br>
