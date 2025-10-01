@@ -51,6 +51,7 @@
 
 </div>
 
+<div>
 #### 🚀 Languages & Tools
 
 <div>
@@ -64,6 +65,7 @@
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="30" height="30"/>
+</div>
 </div>
 
 
