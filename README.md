@@ -24,7 +24,7 @@
 
 </div>
 
----
+<br>
 
 <h2 align="center">🦀 About coding 🦞</h2>
 
